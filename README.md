@@ -1,5 +1,5 @@
-# nvlinpatch
-nvlinpatch patches the NVIDIA UNIX drivers to remove the 400MHz pixel clock limit
+# nvlinpatch2
+nvlinpatch2 patches the NVIDIA UNIX drivers to remove the 400MHz pixel clock limit
 
 
 ## About
